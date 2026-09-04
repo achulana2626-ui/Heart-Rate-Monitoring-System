@@ -74,3 +74,13 @@ Arunachala NextGen Solutions
 
 ## 📄 License
 This project is open source for educational purpose.
+
+## 📸 Project Photos
+
+### Circuit Connection
+![Circuit](IMG-20250831-WA0058.jpg)
+
+### Working Output
+![Output](IMG-20250831-WA0063.jpg)
+![Output2](IMG-20250831-WA0064.jpg)
+![Output3](IMG-20250831-WA0065.jpg)
